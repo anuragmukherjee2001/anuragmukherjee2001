@@ -25,11 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&hide=notebook)](https://github.com/anuragmukherjee/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&layout=compact)](https://github.com/anuragmukherjee2001/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001)](https://github.com/anuragmukherjee2001/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuragmukherjee2001&show_icons=true&theme=radical)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&exclude_repo=Machine-learning-Notebooks)](https://github.com/anuragmukherjee2001/github-readme-stats)
+---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuragmukherjee2001&show_icons=true&theme=radical&hide=issues,contribs)
+---
