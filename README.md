@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently **learning everything**
 - ⏳  Experimenting with ***Python Programming***😃
 - 👯 I’m looking to contribute more on open source projects
-- 🥅 **2020 Goals:** Just to learn more and more
+- 🥅 **2021 Goals:** Just to learn more and more
 - 💬 Ask me about the fields in which I am interested😊
 - 💖 **My Hobby** : Writing articles and blog posts
 - ⚡ **Fun fact:** I am a part time blogger and have interests in sports
+- ⚡ Founder and Owner of TechDevs organisation
+
 <!--
 - 🤔 I’m looking for help with ...
 -->
