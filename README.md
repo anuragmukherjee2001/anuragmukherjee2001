@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⏳  Experimenting with ***Python Programming***😃
 - 👯 I’m looking to contribute more on open source projects
 - 🥅 **2021 Goals:** Just to learn more and more
-- 💬 Ask me about the fields in which I am interested😊
+- 💬 Ask me about the fields in which I am interested 😊
 - 💖 **My Hobby** : Writing articles and blog posts
+- 💖 I love to play chess in my free time 🙂
 - ⚡ **Fun fact:** I am a part time blogger and have interests in sports
-- ⚡ Founder and Owner of TechDevs organisation
+- ⚡ Founder of **factbros.in**
+- ⚡ Founder and Owner of **TechDevs organisation**
 
 <!--
 - 🤔 I’m looking for help with ...
